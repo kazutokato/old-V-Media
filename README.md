@@ -23,9 +23,10 @@
 番組を聴きながら感想を共有し、同じものを好きな人と繋がる。
 
 ## 設計書
+WBS
+https://docs.google.com/spreadsheets/d/1vkA8TGfMC4hmMXzFh9kgFwDTL6Wc1EN1h_gs_yUimYg/edit?usp=sharing
 
-
-## チャレンジ要素一覧
+## 機能一覧
 https://docs.google.com/spreadsheets/d/19tBtU9sSe4LNPW0ren62vqk6bZfZsx6H3pZXQAFwCnY/edit?usp=sharing
 
 ## 開発環境
