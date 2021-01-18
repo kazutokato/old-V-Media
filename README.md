@@ -26,10 +26,10 @@
 #### ER図
 https://drive.google.com/file/d/14u3f999nqAblzIyWVMGS_jIX37VVGltW/view?usp=sharing
 
-#### 画面遷移図（エンドユーザー）
+#### 画面遷移図
 https://drive.google.com/file/d/1a7nOft6M4jTPyeKSwR4-Rc56qaSINVRy/view?usp=sharing
 
-#### 画面遷移図（管理者）
+#### アプリケーション詳細設計書
 
 ## 機能一覧
 https://docs.google.com/spreadsheets/d/19tBtU9sSe4LNPW0ren62vqk6bZfZsx6H3pZXQAFwCnY/edit?usp=sharing
