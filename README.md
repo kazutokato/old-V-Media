@@ -23,13 +23,17 @@
 番組を聴きながら感想を共有し、同じものを好きな人と繋がる。
 
 ## 設計書
-#### ER図
-https://drive.google.com/file/d/14u3f999nqAblzIyWVMGS_jIX37VVGltW/view?usp=sharing
-
 #### 画面遷移図
 https://drive.google.com/file/d/1a7nOft6M4jTPyeKSwR4-Rc56qaSINVRy/view?usp=sharing
 
+#### ER図
+https://drive.google.com/file/d/14u3f999nqAblzIyWVMGS_jIX37VVGltW/view?usp=sharing
+
+#### テーブル定義書
+https://docs.google.com/spreadsheets/d/1nbk-xkwsO6d4YonrDZSTQ_l6vr9_-p1NAMJTcRf4Oxw/edit?usp=sharing
+
 #### アプリケーション詳細設計書
+https://drive.google.com/file/d/1t9idcZaezGXdqipoYpGIv6LSbZm8zJ2j/view?usp=sharing
 
 ## 機能一覧
 https://docs.google.com/spreadsheets/d/19tBtU9sSe4LNPW0ren62vqk6bZfZsx6H3pZXQAFwCnY/edit?usp=sharing
